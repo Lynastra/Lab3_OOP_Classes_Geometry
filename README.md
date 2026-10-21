@@ -136,7 +136,7 @@ GC.WaitForPendingFinalizers();
 Нужен [.NET 10 SDK](https://dotnet.microsoft.com/download).
 
 ```bash
-git clone <https://github.com/Lynastra/Lab3_OOP_Classes_Geometry>
+git clone https://github.com/Lynastra/Lab3_OOP_Classes_Geometry
 cd Lab3_OOP_Classes_Geometry
 
 dotnet run --project Task1_Rectangle
