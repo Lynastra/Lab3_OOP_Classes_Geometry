@@ -2,7 +2,7 @@
 
 > Язык: C# · Платформа: .NET 10 · Тип проектов: консольные приложения
 >
-> Автор: _ФИО_ · Группа: _номер_ · Курс: _название дисциплины_ · СГУ им. Н. Г. Чернышевского, 2025
+> Автор: _Винник Маргарита Дмитриевна_ · Группа: _351_ · Курс: _ООП_ · СГУ им. Н. Г. Чернышевского, 2026
 
 Репозиторий содержит проекты на предметной области «геометрические фигуры»:
 
@@ -125,9 +125,9 @@ GC.WaitForPendingFinalizers();
 
 ### Вывод программы
 
-![конструкторы](screenshots/task2_1.png)
+![конструкторы, площади](screenshots/task21.png)
 
-![площади, List, валидация, деструкторы](screenshots/task2_2.png)
+![List, валидация, деструкторы](screenshots/task22.png)
 
 ---
 
@@ -136,7 +136,7 @@ GC.WaitForPendingFinalizers();
 Нужен [.NET 10 SDK](https://dotnet.microsoft.com/download).
 
 ```bash
-git clone <ссылка на репозиторий>
+git clone <https://github.com/Lynastra/Lab3_OOP_Classes_Geometry>
 cd Lab3_OOP_Classes_Geometry
 
 dotnet run --project Task1_Rectangle
